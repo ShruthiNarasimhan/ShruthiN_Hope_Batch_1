@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1672-richest-customer-wealth](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1672-richest-customer-wealth) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
