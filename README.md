@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1688-count-of-matches-in-tournament) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
