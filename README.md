@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1688-count-of-matches-in-tournament) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1688-count-of-matches-in-tournament) |
 ## Number Theory
 |  |
 | ------- |
