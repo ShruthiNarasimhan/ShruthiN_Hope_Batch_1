@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
