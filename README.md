@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1025-divisor-game) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
 | [0461-hamming-distance](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0461-hamming-distance) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1025-divisor-game) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
