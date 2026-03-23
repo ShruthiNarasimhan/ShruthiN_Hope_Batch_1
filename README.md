@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1688-count-of-matches-in-tournament) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2525-categorize-box-according-to-criteria](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2525-categorize-box-according-to-criteria) |
 ## Binary Search
 |  |
 | ------- |
