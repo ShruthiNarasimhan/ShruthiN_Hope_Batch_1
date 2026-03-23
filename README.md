@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2525-categorize-box-according-to-criteria](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2525-categorize-box-according-to-criteria) |
+| [2864-maximum-odd-binary-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2864-maximum-odd-binary-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2864-maximum-odd-binary-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2864-maximum-odd-binary-number) |
 ## Geometry
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0242-valid-anagram) |
+| [2864-maximum-odd-binary-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2864-maximum-odd-binary-number) |
 ## Prefix Sum
 |  |
 | ------- |
