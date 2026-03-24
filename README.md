@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0014-longest-common-prefix) |
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1108-defanging-an-ip-address) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
