@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2864-maximum-odd-binary-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2864-maximum-odd-binary-number) |
 ## Geometry
 |  |
@@ -110,9 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0242-valid-anagram) |
 | [1108-defanging-an-ip-address](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2864-maximum-odd-binary-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2864-maximum-odd-binary-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
