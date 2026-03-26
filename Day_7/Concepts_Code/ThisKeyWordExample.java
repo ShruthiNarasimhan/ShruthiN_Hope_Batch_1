@@ -31,3 +31,4 @@ class ThisKeyWordExample {
         System.out.println(s4.hashCode());
     }
 }
+//The this keyword in Java is a reference variable that refers to the current object. It is used to differentiate between instance variables and local variables when they have the same name. In this example, the Student class has instance variables name and rollno, and the constructor uses the this keyword to assign the values passed as parameters to these instance variables. The display() method also uses this to access the instance variables of the current object.

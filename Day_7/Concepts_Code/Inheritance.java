@@ -19,3 +19,4 @@ public class Inheritance {
     }
     
 }
+//Inheritance is a fundamental object-oriented programming concept that allows a new class (called a child or subclass) to inherit properties and behaviors (fields and methods) from an existing class (called a parent or superclass). In this example, the Dog class is the child class that inherits from the Animal class, which is the parent class. The Dog class can use the display() method defined in the Animal class, as well as its own bark() method.

@@ -25,3 +25,4 @@ public class HierarchialInheritance {
     }
     
 }
+//Hierarchial Inheritance is a type of inheritance in which a single parent class has multiple child classes. In this example, the Father class is the parent class, and the Son and Daughter classes are the child classes that inherit from the Father class. Each child

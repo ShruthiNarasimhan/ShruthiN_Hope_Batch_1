@@ -28,3 +28,4 @@ public class MultiLevelInheritance{
         x.display();
 }
 }
+//Multi-Level Inheritance is a type of inheritance in which a class is derived from another class, which is also derived from another class. In this example, the Subjects class is the parent class, the Maths class is the child class that inherits from Subjects, the Solve class is the child class that inherits from Maths, and the FindX class is the child class that inherits from Solve. Each child class can use the methods defined in its parent classes, as well as its own methods.
