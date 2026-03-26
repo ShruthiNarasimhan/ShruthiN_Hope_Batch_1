@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0041-first-missing-positive) |
+| [0064-minimum-path-sum](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0064-minimum-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0064-minimum-path-sum) |
 | [1025-divisor-game](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
