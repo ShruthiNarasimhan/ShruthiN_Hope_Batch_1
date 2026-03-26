@@ -19,6 +19,7 @@ public class MaximumofThree {
         else{
             System.out.println("Maximum of three numbers is: " + c);
         }
+        sc.close();
 
     }
     

@@ -21,6 +21,7 @@ public class GradingSystem {
                 System.out.println("Grade: C"); 
                 break;
         }
+        sc.close();
     }
     
 }

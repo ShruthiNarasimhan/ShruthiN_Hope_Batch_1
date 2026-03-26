@@ -13,5 +13,6 @@ public class MathematicalOperations {
         System.out.println("Product: " + (a*b));
         System.out.println("Quotient: " + (a/b));
         System.out.println("Remainder: " + (a%b));
+        sc.close();
     }
 }

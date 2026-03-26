@@ -8,6 +8,7 @@ public class Perimeter {
         l=sc.nextInt();
         System.out.println("Enter the breadth:");
         b=sc.nextInt();
-        System.out.println("Perimeter: " + 2*(l+b));    
+        System.out.println("Perimeter: " + 2*(l+b));   
+        sc.close(); 
     }
 }

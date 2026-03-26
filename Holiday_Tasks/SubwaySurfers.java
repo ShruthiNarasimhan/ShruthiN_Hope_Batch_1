@@ -66,6 +66,7 @@ public class SubwaySurfers {
     }
     System.out.println("Coins Collected: " + (int)(random.nextInt(1000)));
     System.out.println("Well done, " + name + "! You have completed the game.");
+    sc.close();
     }
     
 }
