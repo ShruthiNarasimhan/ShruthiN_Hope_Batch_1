@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0041-first-missing-positive) |
 | [0064-minimum-path-sum](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
