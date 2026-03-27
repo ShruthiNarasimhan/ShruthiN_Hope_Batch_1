@@ -37,7 +37,7 @@ class BankAccount {
 }
 public class BankManagement {
     public static void main(String[] args) {
-        BankAccount account = new BankAccount("123456789", 1000.0);
+        BankAccount account = new BankAccount("123456789", 10000.0);
         System.out.println("Account Number: " + account.getAccountNumber());
         System.out.println("Initial Balance: " + account.getBalance());
 
