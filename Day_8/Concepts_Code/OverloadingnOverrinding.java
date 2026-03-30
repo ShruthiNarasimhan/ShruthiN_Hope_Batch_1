@@ -17,6 +17,5 @@ public class OverloadingnOverrinding {
     public static void main(String[] args) {
         ChildrenOverloading child1=new ChildrenOverloading();
         child1.Children();
-        Children child2=new Children("Shruthi");
     }
 }
