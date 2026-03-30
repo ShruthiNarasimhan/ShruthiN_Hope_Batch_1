@@ -25,3 +25,4 @@ public class Abstraction {
     }
     
 }
+//Abstraction is a process of hiding the implementation details and showing only functionality to the user. It helps to reduce complexity and allows the programmer to focus on interactions at a higher level. In Java, abstraction can be achieved using abstract classes and interfaces. An abstract class can have both abstract and concrete methods, while an interface can only have abstract methods (until Java 8, after which it can also have default and static methods).
