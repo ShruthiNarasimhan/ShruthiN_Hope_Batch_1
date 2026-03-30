@@ -1,32 +1,20 @@
 class Solution {
     public String convert(String s, int numRows) {
-       if(s.length()<numRows||numRows==1)
-       {
-        return s;
-       }
-       List<Character>[] rows=new ArrayList[numRows];
-       for(int i=0;i<numRows;i++)
-       {
-        rows[i]=new ArrayList<>();
-       }
-       int currRow=0;
-       boolean flag=false;
-       for(char c:s.toCharArray())
-       {
-        rows[currRow].add(c);
-        if(currRow==0||currRow==numRows-1)
-            flag=!flag;
-            currRow+=flag?1:-1;
-       }
-       StringBuilder result=new StringBuilder();
-       for(List<Character> row:rows)
-       {
-        for(char c:row)
-        {
-            result.append(c);
+        // optimal, without using extra space
+        int n = s.length();
+        if (numRows == 1 || numRows >= n) {
+            return s;
         }
-       }
-       return result.toString();
-
+        int cycle = 2 * numRows - 2;
+        StringBuilder ans = new StringBuilder();
+        for (int row = 0; row < numRows; row++) {
+            for (int j = 0; j + row < n; j += cycle) {
+                ans.append(s.charAt(j + row));
+                if (row > 0 && row < numRows - 1 && j + cycle - row < n) {
+                    ans.append(s.charAt(j + cycle - row));
+                }
+            }
+        }
+        return ans.toString();
     }
 }
