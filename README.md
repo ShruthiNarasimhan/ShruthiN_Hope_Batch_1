@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Matrix
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1108-defanging-an-ip-address](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
