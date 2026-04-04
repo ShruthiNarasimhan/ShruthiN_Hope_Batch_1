@@ -1,27 +1,20 @@
-import java.util.Arrays;
-
 class Solution {
     public int majorityElement(int[] nums) {
-        Arrays.sort(nums);
+        int count = 0;
+        int candidate = 0;
 
-        int count = 1;
-        int maxCount = 1;
-        int result = nums[0];
-
-        for (int i = 1; i < nums.length; i++) {
-
-            if (nums[i] == nums[i - 1]) {
-                count++;
-            } else {
-                count = 1;
+        for (int num : nums) {
+            if (count == 0) {
+                candidate = num;
             }
 
-            if (count > maxCount) {
-                maxCount = count;
-                result = nums[i];
+            if (num == candidate) {
+                count++;
+            } else {
+                count--;
             }
         }
 
-        return result;
+        return candidate;
     }
 }
