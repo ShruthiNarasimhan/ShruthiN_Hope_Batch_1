@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0941-valid-mountain-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Matrix
