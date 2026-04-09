@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0189-rotate-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
