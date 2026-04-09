@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1688-count-of-matches-in-tournament) |
+| [1929-concatenation-of-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
