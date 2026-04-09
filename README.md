@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1518-water-bottles](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0258-add-digits) |
+| [1518-water-bottles](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1688-count-of-matches-in-tournament) |
 ## Number Theory
 |  |
