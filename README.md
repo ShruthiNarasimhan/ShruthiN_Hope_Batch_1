@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Math
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2864-maximum-odd-binary-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2864-maximum-odd-binary-number) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0219-contains-duplicate-ii) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Queue
 |  |
 | ------- |
