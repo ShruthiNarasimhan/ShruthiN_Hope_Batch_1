@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Number Theory
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1108-defanging-an-ip-address](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2864-maximum-odd-binary-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2864-maximum-odd-binary-number) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Prefix Sum
