@@ -3,13 +3,10 @@ class Solution {
         int x=0;
         for(String str:operations)
         {
-            if(str.equals("X++")||str.equals("++X"))
-            {
-                x++;
-            }
-            else if(str.equals("X--")||str.equals("--X")){
-                x--;
-            }
+            if(str.charAt(1)=='+')
+            x++;
+            else
+            x--;
         }
         return x;
     
