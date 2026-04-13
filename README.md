@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
