@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0231-power-of-two) |
