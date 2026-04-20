@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0941-valid-mountain-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
