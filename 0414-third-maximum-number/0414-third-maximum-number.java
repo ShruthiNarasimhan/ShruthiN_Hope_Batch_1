@@ -1,16 +1,11 @@
 class Solution {
     public int thirdMax(int[] nums) {
-    Set<Integer> set = new HashSet<>();
-    for (int num : nums) {
-        set.add(num);
-    } 
-   List<Integer> list = new ArrayList<>(set);
-    Collections.sort(list);
-    int n = list.size();
-    if (n >= 3) {
-        return list.get(n - 3); 
-    } else {
-        return list.get(n - 1); 
+        int count = 0;
+        Arrays.sort(nums);
+        for(int i = nums.length - 1; i > 0; i--){
+            if(nums[i] != nums[i - 1]) count++;
+            if(count == 2) return nums[i - 1];
+        }
+        return nums[nums.length - 1];
     }
-}
 }
