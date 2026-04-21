@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1672-richest-customer-wealth) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Math
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0414-third-maximum-number) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0021-merge-two-sorted-lists) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
