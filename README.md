@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0168-excel-sheet-column-title) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0231-power-of-two) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1518-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1688-count-of-matches-in-tournament) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0168-excel-sheet-column-title) |
