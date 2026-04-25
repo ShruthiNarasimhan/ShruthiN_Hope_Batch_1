@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0075-sort-colors) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0011-container-with-most-water) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2864-maximum-odd-binary-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/2864-maximum-odd-binary-number) |
