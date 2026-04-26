@@ -1,25 +1,31 @@
+import java.util.*;
+
 class Solution {
     public boolean wordPattern(String pattern, String s) {
         String[] words = s.split(" ");
         
-        if (pattern.length() != words.length) {
-            return false;}
+        if (pattern.length() != words.length) return false;
 
-        HashMap<Character, String> charToWord = new HashMap<>();
-        HashSet<String> seen = new HashSet<>();
+        Map<Character, String> map = new HashMap<>();
+        Set<String> usedWords = new HashSet<>();
 
         for (int i = 0; i < pattern.length(); i++) {
-            char c = pattern.charAt(i);
-            String w = words[i];
+            char ch = pattern.charAt(i);
+            String word = words[i];
 
-            if (charToWord.containsKey(c)) {
-                if (!charToWord.get(c).equals(w)) {
-                    return false;}
+            if (map.containsKey(ch)) {
+                if (!map.get(ch).equals(word)) {
+                    return false;
+                }
             } else {
-                if (seen.contains(w)) {
-                    return false;}
-                charToWord.put(c, w);
-                seen.add(w);}}
+                if (usedWords.contains(word)) {
+                    return false;
+                }
+                map.put(ch, word);
+                usedWords.add(word);
+            }
+        }
+
         return true;
     }
 }
