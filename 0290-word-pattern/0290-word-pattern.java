@@ -6,7 +6,7 @@ class Solution {
             return false;}
 
         HashMap<Character, String> charToWord = new HashMap<>();
-        HashSet<String> seenWords = new HashSet<>();
+        HashSet<String> seen = new HashSet<>();
 
         for (int i = 0; i < pattern.length(); i++) {
             char c = pattern.charAt(i);
@@ -16,10 +16,10 @@ class Solution {
                 if (!charToWord.get(c).equals(w)) {
                     return false;}
             } else {
-                if (seenWords.contains(w)) {
+                if (seen.contains(w)) {
                     return false;}
                 charToWord.put(c, w);
-                seenWords.add(w);}}
+                seen.add(w);}}
         return true;
     }
 }
