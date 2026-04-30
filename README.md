@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
