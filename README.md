@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0463-island-perimeter) |
 | [0704-binary-search](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0704-binary-search) |
 | [0941-valid-mountain-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0941-valid-mountain-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/ShruthiNarasimhan/ShruthiN_Hope_Batch_1/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Math
